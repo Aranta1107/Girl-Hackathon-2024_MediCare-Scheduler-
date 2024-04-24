@@ -15,7 +15,7 @@ HealthAlign is an healthcare appointment scheduling system that uses AI techniqu
 # How to use
 
 1. Clone the repository:
-git clone https://github.com/your_username/health-align.git
+git clone [https://github.com/your_username/health-align.git](https://github.com/Aranta1107/Girl-Hackathon-2024_MediCare-Scheduler-)
 
 2. python main.py
 
