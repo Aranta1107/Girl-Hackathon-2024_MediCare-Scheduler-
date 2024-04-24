@@ -17,6 +17,6 @@ HealthAlign is an healthcare appointment scheduling system that uses AI techniqu
 1. Clone the repository:
 git clone [https://github.com/Aranta1107/Girl-Hackathon-2024_MediCare-Scheduler-](https://github.com/Aranta1107/Girl-Hackathon-2024_MediCare-Scheduler-)
 
-2. python main.py
+2. run the ipynb file 
 
 3. give input in sentence . for eg- "i have fever, headache and eyepain"
